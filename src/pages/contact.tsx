@@ -10,7 +10,7 @@ export default function ContactPage() {
       <Header />
 
       <Article hero="This is contact page!">
-      <h1>Contact</h1>
+      <h1>Contact me</h1>
       </Article>
       
       <Footer />
