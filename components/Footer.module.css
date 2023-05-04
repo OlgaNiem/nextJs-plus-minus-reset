@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #333333;
+    color: white;
+    /* för att göra footer på bottom + code i global.css*/
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
